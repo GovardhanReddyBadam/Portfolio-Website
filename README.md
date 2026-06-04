@@ -75,22 +75,6 @@ project-folder/
 
 ---
 
-## 🌐 Live Demo
-
-Add your deployed project link here:
-
-```bash
-https://your-live-demo-link.com
-```
-
----
-
-## 📸 Preview
-
-Add screenshots or GIFs of your project here.
-
----
-
 ## ⚙️ How to Run the Project
 
 1. Clone the repository
